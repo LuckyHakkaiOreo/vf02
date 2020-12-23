@@ -1,0 +1,21 @@
+启动安装虚拟机：vagrant up
+
+进入虚拟机：vagrant ssh
+
+查看虚拟机的配置：vagrant ssh-config
+
+linux创建、授权用户：
+sudo -i使用root账户操作当前linux机器
+
+
+修改root账户密码操作：
+
+[root@localhost ~]# sudo -i使用root账户操作当前linux机器
+[root@localhost ~]# vi /etc/ssh/sshd_config（编辑这个文件，启用密码认证）
+[root@localhost ~]# passwd
+Changing password for user root.
+New password:
+BAD PASSWORD: The password is shorter than 8 characters
+Retype new password:
+passwd: all authentication tokens updated successfully.
+[root@localhost ~]# systemctl restart sshd
