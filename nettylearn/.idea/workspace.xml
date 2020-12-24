@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e4addcf-480f-496f-93b1-b0cb01c22fd9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jvKZsBjNAe4hRMWGmxff5Z0M8e" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/netty-study/src/main/java/com/oreo/netty/learn/netty_study/httpreq" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.codec" />
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.udp" />
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.websocket" />
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.http" />
+      <recent name="com.oreo.netty.learn.netty_study.ch06.codec.serializer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\learn\workspace_4_java\nettylearn\netty-study\src\main\java\com\oreo\netty\learn\netty_study\httpreq" />
+      <recent name="C:\learn\workspace_4_java\nettylearn\netty-study\src\main\java\com\oreo\netty\learn\netty_study\ch10_14\xml\pojo" />
+      <recent name="C:\learn\workspace_4_java\nettylearn\netty-study\src\main\java\com\oreo\netty\learn\netty_study\ch06\codec\marshalling" />
+      <recent name="C:\learn\workspace_4_java\nettylearn\netty-study\src\main\java\com\oreo\netty\learn\netty_study\ch06\codec\protobuf" />
+      <recent name="C:\learn\workspace_4_java\nettylearn\netty-study\src\main\java\com\oreo\netty\learn\netty_study\ch04\correct" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.codec" />
+      <recent name="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.pmsg" />
+      <recent name="com.oreo.netty.learn.netty_study.ch06.codec.marshalling" />
+      <recent name="com.oreo.netty.learn.netty_study.ch06.codec.protobuf" />
+      <recent name="com.oreo.netty.learn.netty_study.ch05.fixed" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\learn\workspace_4_java\nettylearn\bio-learn\src\main\resources" />
+      <recent name="C:\learn\workspace_4_java\nettylearn\bio-learn\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HttpFileServer (1)">
+    <configuration name="HttpFileServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oreo.netty.learn.netty_study.ch10_14.http.HttpFileServer" />
+      <module name="netty-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oreo.netty.learn.netty_study.ch10_14.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oreo.netty.learn.netty_study.httpreq.HttpFileServer" />
+      <module name="netty-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oreo.netty.learn.netty_study.httpreq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutiTreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oreo.netty.learn.multi_thread.MutiTreadTest" />
+      <module name="netty-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oreo.netty.learn.multi_thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.client.NettyClient" />
+      <module name="netty-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.server.NettyServer" />
+      <module name="netty-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oreo.netty.learn.netty_study.ch10_14.private_protocol.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpFileServer (1)" />
+        <item itemvalue="Application.HttpFileServer" />
+        <item itemvalue="Application.MutiTreadTest" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e4addcf-480f-496f-93b1-b0cb01c22fd9" name="Default Changelist" comment="" />
+      <created>1604679183519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604679183519</updated>
+      <workItem from="1604679187435" duration="109842000" />
+      <workItem from="1605200426670" duration="78000" />
+      <workItem from="1605449633759" duration="26000" />
+      <workItem from="1607015203934" duration="208000" />
+      <workItem from="1608820914100" duration="7165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
